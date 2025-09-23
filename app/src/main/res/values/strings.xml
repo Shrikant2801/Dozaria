@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Dozaria</string>
+
+    <!-- Authentication -->
+    <string name="login">Login</string>
+    <string name="signup">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="login_success">Login successful!</string>
+    <string name="signup_success">Account created successfully!</string>
+    <string name="login_failed">Login failed. Please try again.</string>
+    <string name="signup_failed">Sign up failed. Please try again.</string>
+
+    <!-- Onboarding -->
+    <string name="select_interests">Select Your Interests</string>
+    <string name="continue_btn">Continue</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_challenges">Challenges</string>
+    <string name="nav_add_post">Add Post</string>
+    <string name="nav_leaderboard">Leaderboard</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Posts -->
+    <string name="create_post">Create Post</string>
+    <string name="post_content">What\'s on your mind?</string>
+    <string name="post">Post</string>
+    <string name="like">Like</string>
+    <string name="comment">Comment</string>
+    <string name="comments">Comments</string>
+
+    <!-- Challenges -->
+    <string name="create_challenge">Create Challenge</string>
+    <string name="challenge_title">Challenge Title</string>
+    <string name="challenge_description">Description</string>
+    <string name="challenge_deadline">Deadline</string>
+    <string name="xp_reward">XP Reward</string>
+    <string name="complete_challenge">Complete Challenge</string>
+    <string name="proof_upload">Upload Proof</string>
+
+    <!-- Profile -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="total_xp">Total XP</string>
+    <string name="challenges_completed">Challenges Completed</string>
+    <string name="posts_count">Posts</string>
+
+    <!-- Common -->
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading...</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="try_again">Try Again</string>
+    <string name="logout">Logout</string>
+</resources>
