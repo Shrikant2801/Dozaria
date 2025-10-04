@@ -13,3 +13,38 @@
 .externalNativeBuild
 .cxx
 local.properties
+# Ignore build outputs
+/build
+/app/build
+**/build/
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# Local configuration file (SDK path)
+local.properties
+
+# Captures
+captures/
+
+# External native build folder
+.externalNativeBuild/
+
+# NDK
+obj/
+
+# Log files
+*.log
+
+# Keystore files
+*.jks
+*.keystore
+
+# Firebase (keys should not be public)
+google-services.json
+
