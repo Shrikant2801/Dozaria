@@ -108,5 +108,10 @@ Engagement Features: ⏳ Planned
 
 Monetization & Rewards: 🔮 Future Phase
 
-📜 License
-This project is open-source and available under the MIT License.
+## 🤝 Contributing
+We welcome contributions! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file before submitting any code.
+
+---
+
+## 📜 License
+This project is proprietary. See [LICENSE](LICENSE) for details.
