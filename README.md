@@ -88,7 +88,7 @@ Missing features are listed in the roadmap above — pick one, and start buildin
 1. Fork the repo
 2. Clone your fork
    ```bash
-   git clone https://github.com/YOUR_USERNAME/dozaria.git
+   git clone https://github.com/Shrikant2801/dozaria.git
 Create a feature branch
 
 bash
